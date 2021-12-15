@@ -1,0 +1,114 @@
+.container {
+    display: flex;
+}
+
+h1 {
+    clear: both;
+    text-align: center;
+    padding-top: 0px;
+    background-color: #fffaf0;
+    font-family: 'Barlow', sans-serif;
+    font-size: 42px;
+}
+
+#fn {
+    text-align: center;
+}
+
+.my-form {
+    padding: 20px;
+    background: #fff;
+    margin: 0px 20px;
+    background-color: #fffaf0;
+}
+
+.form-group {
+    padding: 15px;
+    font-size: 16px;  
+}
+
+.my-form input {
+    padding: 8px;
+    width: 500px;
+}
+
+button {
+    color: #fff;
+    width: 520px;
+    height: 50px;
+    margin: 0 auto;
+    font-size: 16px;
+    font-family: 'Barlow', sans-serif;
+    background: #D2081E;
+}
+
+.content {
+    background-color: #fffaf0;
+    flex-basis: 50%;
+}
+#backg {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#email {
+    margin-right: 40px;
+}
+
+#time {
+    padding: 20px;
+}
+
+#time inputs {
+    display: inline;
+}
+
+#time1 {
+    margin: 40px 0px 0px 15px;
+}
+
+#message1 textarea {
+    display: block; 
+    width: 513px;
+    height: 75px;
+    margin: 15px 0px 50px 0px;
+}
+
+#message1 label {
+    padding: 20px;
+}
+
+label {
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 16px;
+}
+
+#instuctions {
+    font-family: 'Archivo Narrow', sans-serif;
+    text-align: center;
+    width: 500px;
+    margin-left: 75px;
+    font-size: 20px;
+}
+
+option {
+    background: #D2081E;  
+}
+
+#med {
+    margin-left: 14px;
+}
+
+
+#map{
+    max-height: 150px;
+}
+
+#associate {
+    text-align: center;
+    margin-left: 100px;
+}
+
+h3 {
+    text-align: center;
+}

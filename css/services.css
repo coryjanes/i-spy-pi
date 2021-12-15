@@ -1,0 +1,92 @@
+#p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8, #p9, #p10, #p11, #p12  {
+    width: 300px;
+    height: 185px;
+    margin: 10px 10px 7px 10px;
+}
+
+h1 {
+    text-align: center;
+    background: #D2081E;
+    padding: 40px;
+    clear: both;
+    width: 86.5%;
+    margin: 20px auto;
+}
+
+h2 {
+   font-family: 'Russo One', sans-serif;
+    font-style: italic;
+}
+
+.container {
+    flex-basis: 30%;
+    margin-left: 23px;
+    
+}
+
+.s {
+    text-align: center;
+}
+
+#consult {
+    
+}
+
+.pictures {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 15px;
+    background: #D2081E;
+    padding: 0px 0px 20px 0px;
+}
+
+#section p {
+    line-height: 2em;
+    font-family: 'Lexend Exa', sans-serif;
+    font-size: 12px;
+}
+
+content div a {
+    text-decoration: none;
+    color: #D2081E;
+}
+
+#section div {
+    padding: 15px;
+}
+
+.content p {
+    
+    line-height: 1.50em;
+    color: white;
+}
+
+#button {
+    text-align: center;
+    color: #fff;
+    width: 75%;
+    margin: 50px auto;
+}
+
+#button h2 {
+    background-color: #D2081E;
+    padding: 40px;
+    color: #fff;
+}
+#button a {
+    text-decoration: none;
+}
+
+.learn {
+    text-decoration: none;
+    color: #D2081E;
+}
+
+#two {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.serv {
+    text-decoration: none;
+    text-align: center;
+}

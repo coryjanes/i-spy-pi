@@ -1,0 +1,147 @@
+ #hero {
+    background-size: cover;
+    clear: both;
+    background: black;
+    min-height: 450px;
+    
+}
+
+#nick {
+   flex-basis: 50%;
+}
+
+#julie {
+    flex-basis: 33%;
+}
+
+#matt {
+    flex-basis: 33%;
+}
+
+
+
+#hero p {
+    color: white;  
+}
+
+#hero h2 {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding-top: 55px;
+    font-size: 50px;
+}
+
+#button {
+    text-align: center;
+    color: white;
+    margin: 0 auto; 
+    
+}
+
+button {
+    padding: 5px 10px;
+    background: #DF1A1A;
+    font-size: 15px;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+#button h2 {
+    background-color: #DF1A1A;
+    padding: 40px;
+    color: #fff;
+}
+#button a {
+    text-decoration: none
+}
+
+
+#hero {
+    background: url("../images/background3.jpg") no-repeat #eee;
+    background-size: 1200px;
+    background-position: center;
+    background-color: white;
+    margin: 0;
+}  
+
+#hero {
+    margin: 0 auto;
+    padding: 0;
+}
+
+#help {
+    margin-top: 70px;
+    color: #DF1A1A;
+}
+
+#hero p {
+    margin: 0 auto;
+    width: 50%;
+    line-height: 2em;
+     text-align: center;
+}
+#whatis p {
+    margin: 0 auto;
+    line-height: 2em;
+    text-align: center;
+    flex-basis: 20%;
+}
+#history p {
+    margin: 0 auto;
+    line-height: 2em;
+    text-align: center;
+    flex-basis: 60%;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Bebas+Neue', sans-serif;
+    font-size: 30px;
+}
+
+#whatis {
+    padding: 30px;
+    margin: 30px;
+}
+
+#consult {
+    
+    margin-bottom: 45px;
+}
+
+#history {
+    padding: 30px;
+    margin: 30px;
+}
+
+.content p {
+    font-family: 'Crimson Pro', serif;;
+}
+
+#consult {
+    
+}
+
+.wrap {
+    display: flex;
+    
+}
+
+.flex {
+    flex-basis: 35%;
+}
+
+.flex1 {
+    flex-basis: 65%;
+}
+
+.people {
+    padding: 30px;
+    border: 5px 5px 5px 5px  solid #000;
+    flex-basis: 30%;
+    margin: 10px 0px 20px 0px;
+}
+
+#redba {
+   
+}
